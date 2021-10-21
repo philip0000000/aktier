@@ -1,0 +1,17 @@
+{
+  "name": "StockMarketReadUSA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "mysql": "^2.18.1",
+    "puppeteer": "^5.5.0",
+    "websocket": "^1.0.33"
+  }
+}
